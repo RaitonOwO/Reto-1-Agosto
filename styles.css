@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+    
+}
+.container{
+    background-color: black;
+    opacity: 80%;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    color: black;
+    
+}
+
+.menu{
+    background-color: black;
+    opacity: 80%;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
